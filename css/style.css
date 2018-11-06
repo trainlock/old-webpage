@@ -37,6 +37,9 @@ Orange: rgb(211, 165, 109);
   #brandDropdown {
     display: none !important;
   }
+  #siegeInfo {
+    padding-right: 3em;
+  }
 }
 @media (max-width: 992px) {
   .navbar:not(.top-nav-collapse) {
@@ -45,6 +48,9 @@ Orange: rgb(211, 165, 109);
   #brandRegular {
     display: none !important;
   }
+  #siegeInfo {
+    padding-right: 3em;
+  }
 }
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
@@ -52,6 +58,9 @@ Orange: rgb(211, 165, 109);
   }
   #brandRegular {
     display: none !important;
+  }
+  #siegeInfo {
+    padding-right: 0em;
   }
 }
 @media (min-width: 800px) and (max-width: 850px) {
