@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4728a202-23e8-4d55-8e8d-328c726dcc43" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/components/work/flubber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/work/omr.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/work/omr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4728a202-23e8-4d55-8e8d-328c726dcc43" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -191,12 +187,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550992205377</updated>
       <workItem from="1550992208519" duration="213000" />
-      <workItem from="1553996765829" duration="3168000" />
+      <workItem from="1553996765829" duration="3380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3381000" />
+    <option name="totallyTimeSpent" value="3593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
